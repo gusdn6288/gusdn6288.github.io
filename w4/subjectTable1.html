@@ -4,10 +4,29 @@
 <head> 
 <meta charset="utf-8"/><meta name ="viewport" content="width=device-width, initial-scale=1"/>
 <style>
-table, thead, tbody, tfoot, tr,th,td
+
+
+
+
+
+table, thead, tbody, tfoot
+
+
+
 { border:2px solid black; border-collapse: collapse; text-align: cent;}
 .subject1 { background-color:lightgray;} .subject2{ background-color:#FAF4C0;}
 th, td { width:50px;}
+
+
+ tr,th,td 
+{
+border : 1px solid black; 
+padding : 30px;
+}
+
+
+
+
 
 </style> <!-- border-collapse:collapse 단선으로, 반대는 separate-->
 <title> HTML5 시간표 </title>
@@ -18,17 +37,16 @@ th, td { width:50px;}
 <th>시간</th><th>월</th><th>화</th><th>수</th><th>목</th><th>금</th>
 </thead>
 <tbody>
-<tr><td>9시</td>		<td rowspan = "2">오토마타와 응용</td>		<td rowspan="2">자료 구조 및 실습</td>	<td></td>					<td></td>				</tr>
-<tr><td>10시</td>	<td></td>									<td>오토마타와 응용</td>				</tr>
-<tr><td>11시</td>	<td rowspan = "2">디지털 논리 회로</td>		<td></td>				<td rowspan="2">자료 구조및 실습</td>		<td></td>				</tr>
+<tr ><td>9시</td>	<td rowspan = "2" bgcolor = "#eda6a6"  >오토마타와 응용</td>		<td rowspan="2" bgcolor = "#d48f7b" >자료 구조 및 실습</td>	<td></td>					<td></td>				</tr>
+<tr><td>10시</td>	<td></td>					<td bgcolor = "#eda6a6" >오토마타와 응용</td>				</tr>
+<tr><td>11시</td>	<td rowspan = "2" bgcolor = "#e0cca6" >디지털 논리 회로</td>		<td></td>				<td rowspan="2" bgcolor = "#d48f7b" >자료 구조및 실습</td>		<td></td>				</tr>
 <tr><td>12시</td>	<td></td>					<td></td>				<td></td>									</tr>
-<tr><td>13시</td>	<td></td>					<td rowspan="1">디지털 논리 회로</td>		<td></td>					<td rowspan="2">인터넷응용</td><td></td>				</tr>
-<tr><td>14시</td>	<td></td>					<td></td>				<td rowspan="4">c++프로그래밍</td>								</tr>
-<tr><td>15시</td>	<td rowspan = "3">예술과 과학</td>			<td></td>				<td></td>									</tr>
+<tr><td>13시</td>	<td></td>					<td rowspan="1" bgcolor = "#e0cca6" >디지털 논리 회로</td>		<td></td>					<td rowspan="2"  bgcolor = "#7ba9d4" >인터넷응용</td><td></td>				</tr>
+<tr><td>14시</td>	<td></td>					<td></td>				<td rowspan="4" bgcolor = "#7bd493" >c++프로그래밍</td>								</tr>
+<tr><td>15시</td>	<td rowspan = "3" bgcolor = "#917bd4">예술과 과학</td>			<td></td>				<td></td>									</tr>
 <tr><td>16시</td>	<td></td>					<td></td>				<td></td>									</tr>
-<tr><td>17시</td>				<td>인터넷 응용</td>									<td></td>				</tr>
+<tr><td>17시</td>				<td  bgcolor = "#7ba9d4" >인터넷 응용</td>									<td></td>				</tr>
 <tr><td>18시</td>	<td></td>					<td></td>				<td></td><td></td>				</tr>
 
  </body>
 </html>
-
