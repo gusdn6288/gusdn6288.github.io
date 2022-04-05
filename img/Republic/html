@@ -1,0 +1,27 @@
+
+<!doctype html> <!-- image.Map.html-->
+<html> <head>
+<meta charset= "utf-8"/>
+<meta name="viewport"content="width=device-width, initial-scale=1"/>
+<title>HTML5클라이언트 사이드 이미지맵 실습</title>
+</head>
+<body>
+<h3>
+북한 </h3>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/150px-Flag_of_North_Korea.svg.png" border=0 usemap="#area">
+
+<br/>
+조선민주주의인민공화국(朝鮮民主主義人民共和國, 영어: Democratic People's Republic of Korea, DPRK) 또는 짧게 북한(北韓), 북조선(北朝鮮, 영어: North Korea), 조선(朝鮮)은 동아시아의 한반도의 북반부를 통치하고 있는 국가이다.[4] UN이 추정하는 조선민주주의인민공화국의 인구는 2019년 기준으로 약 2,550만 명이다.[5] 조선민주주의인민공화국의 공용어는 조선어이며, 평양말을 중심으로 이룩됨을 내세운 문화어를 표준어로 삼는다.
+
+수도는 평양시이며, 이밖에 조선민주주의인민공화국의 광역지자체로는 남포시, 개성시, 라선시 등이 있다.
+
+조선민주주의인민공화국의 통치 형태는 정당이 조선로동당이 있으며 사실상 일당제 국가라는 평가를 받는다. 초대 최고지도자 김일성은 6.25 전쟁, 8월 종파 사건 등을 거쳐 정적을 제거하여 수령 중심 정치 체제를 완성하였다. 그의 자손인 김정일, 김정은은 차례로 집권을 하며 선대의 수령주의를 이어받은 정치를 펼쳤다. 이 체제는 '주체사상'이라는, 김일성 일가와 그들의 당[6]인 조선로동당의 통치를 정당화하는 이념으로 대표된다.
+</body>
+</html>
+
+
+
+
+
+
+
