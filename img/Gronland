@@ -1,0 +1,23 @@
+
+<!doctype html> <!-- image.Map.html-->
+<html> <head>
+<meta charset= "utf-8"/>
+<meta name="viewport"content="width=device-width, initial-scale=1"/>
+<title>HTML5클라이언트 사이드 이미지맵 실습</title>
+</head>
+<body>
+<h3>
+그린란드 </h3>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/150px-Flag_of_Greenland.svg.png" border=0 usemap="#area">
+
+<br/>
+그린란드(그린란드어: Kalaallit Nunaat 칼라아릿누나트, 덴마크어: Grønland 그뢴란[*], 문화어: 그뢴란, (영어)Greenland)는 대표적인 아대륙으로 세계에서 가장 큰 섬이다.[1] 지리적으로는 북아메리카 북쪽에 포함되어 있는 덴마크 왕국의 구성국이자 자치령이다. 2009년 6월 21일에 자치를 선언해, 보다 고도화된 자치권을 행사하고 있다. 속령이므로 국방이나 외교적인 사안 등에 대해서는 덴마크에게 있지만, 그린란드의 지하자원을 사용하는 권리와 사법권, 경찰권, 입법권 등을 독립적으로 행사할 수 있다. 수도는 누크이다. 바다를 사이에 두고 캐나다와 아이슬란드를 마주한다.
+</body>
+</html>
+
+
+
+
+
+
+
